@@ -17,3 +17,7 @@ Amazon SNS: Used for push notifications. Amazon SNS (Simple Notification Service
 S3 bucket with objects: Amazon S3 is used to store objects, such as images, documents, or media files, improving data durability.
 Cache Redis: Used for quick retrieval of data without the need for time-consuming operations like querying a database
 
+# Project Architecture 
+![AWS (2019) horizontal framework](https://github.com/HussamAlbadri/Cloud-solution-for-a-transportation-application/assets/59113969/86284bfe-2dcf-4e89-8f0b-206fd2da1fa1)
+
+
